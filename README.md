@@ -6,4 +6,4 @@ The data showed that the majority of people believed that it was not rude to bri
 
 Here is the data that is referenced to above: 
 
-![This is the Datawrapper chart.](Rude to bring baby.png)
+![This is the Datawrapper chart.](baby-survey.png)
